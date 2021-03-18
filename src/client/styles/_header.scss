@@ -1,0 +1,7 @@
+.container {
+  background-color: rgb(225, 222, 222);
+  & p {
+    font-size: 2rem;
+    text-align: center;
+  }
+}
